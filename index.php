@@ -33,7 +33,7 @@
                 <thead>
                  <tr>
                     <th>User_Id</th>
-                    <th>NOMBRES</th>
+                    <th>NOMBRES y mas</th>
                      
                 </tr>
                 </thead>
