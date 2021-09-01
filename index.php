@@ -33,7 +33,7 @@
                 <thead>
                  <tr>
                     <th>User_Id</th>
-                    <th>userName</th>
+                    <th>NOMBRE DE USUSARIO</th>
                      
                 </tr>
                 </thead>
